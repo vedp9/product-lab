@@ -1,6 +1,8 @@
 # Side Projects & Experiments
 
-Small products and experiments I built while exploring ideas in productivity, learning, and personal growth.
+Independent products and experiments I built while exploring productivity, learning, real estate, and personal growth.
+
+These projects are separate from my primary AI-engineering portfolio and reflect my interest in turning ideas into working products.
 
 | Project | What it helps with | Links |
 |---|---|---|
