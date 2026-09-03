@@ -8,6 +8,7 @@ These projects are separate from my primary AI-engineering portfolio and reflect
 |---|---|---|
 | [AI Flashcard Hub](https://github.com/vedp9/ai-flashcards-hub) | Interactive learning resources for production ML and AI-engineering concepts. | [Live](https://vedp9.github.io/ai-flashcards-hub) |
 | [Wool App](https://github.com/vedp9/vibe-coded-apps/tree/main/wool_project) | A Flutter mobile application built for my mother to upload, organize, and manage a catalog of her handmade knitted items. | Run it locally |
+| Skin App | An AI-powered skincare assistant that provides personalized skincare guidance and product-compatibility insights for Indian users. | [Live](https://skin-mate-app.vercel.app) |
 |[Kinetos Real Estate](https://github.com/vedp9/kinetos-realestate) | A web application that helps users explore property listings, view property details, and discover homes. | [Live](https://kinetos-realestate.vercel.app/) |
 | [DSAfeed](https://github.com/vedp9/dsafeed) | Duolingo-style learning platform for Data Structures and Algorithms. It makes learning complex coding concepts simple and fun through bite-sized lessons, interactive quizzes, and daily streaks. | [Live](https://dsafeed.vercel.app/) |
 | [RisePath](https://github.com/vedp9/RisePath) | A tool for exploring personal growth and career direction. | [Live](https://rise-path-connect.vercel.app) |
